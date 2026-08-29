@@ -31,7 +31,7 @@
             ">
     Обо мне: <br> 
     <img 
-         src="assets/нефарио.webp"
+         src="нефарио.webp"
          width="200px" :>
          <br> 
           
